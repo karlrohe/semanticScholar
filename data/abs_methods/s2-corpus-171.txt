@@ -1,0 +1,5 @@
+ 2096883637,OBJECTIVE,To study the impact of terminations of pregnancy TOP on very preterm mortality in Europe  
+ 2096883637,METHODS,The analysis compares the proportion of TOP among very preterm births and assesses differences in mortality between the regions  
+ 2096883637,RESULTS,Pregnancy terminations constituted between 1 and 21 5 of all very preterm births and between 4 and 53 of stillbirths Most terminations were for CAs although some were for obstetric indications severe pre eclampsia growth restriction premature rupture of membranes TOP contributed substantially to overall fetal mortality rates in the two regions with late second trimester screening There was no clear association between policies governing screening and pregnancy termination and the proportion of CAs among stillbirths and live births except in Poland where neonatal deaths associated with CAs were more frequent reflecting restrictive pregnancy termination policies  
+ 2096883637,METHODS_DIFF,The analysis compares the proportion of TOP among very preterm births and assesses differences in mortality between the regions  
+

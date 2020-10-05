@@ -1,0 +1,5 @@
+ 2397046077,OBJECTIVE,To investigate the change of serum soluble vascular cell adhesion molecule 1 sVCAM 1 in acute cerebral infarction patients treated with integrated traditional Chinese and western medicine TCM WM  
+ 2397046077,METHODS,Serum sVCAM 1 level of patients treated with TCM WM or western medicine alone was measured by ELISA and compared with that of healthy person  
+ 2397046077,RESULTS,TCM WM could reduce the sVCAM 1 level in patients with cerebral infarction P 0 05 The therapeutic effect of TCM WM was better than that of western treatment alone P 0 05  
+ 2397046077,METHODS_DIFF,Serum sVCAM 1 level of patients treated with TCM WM or western medicine alone was measured by ELISA and compared with that of healthy person  
+

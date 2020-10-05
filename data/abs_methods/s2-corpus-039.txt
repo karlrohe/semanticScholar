@@ -1,0 +1,3 @@
+ 2100989310,PATIENTS AND METHODS,Patients with TNBC N 1 824 unselected for family history of breast or ovarian cancer were recruited through 12 studies and germline DNA was sequenced to identify mutations  
+ 2100989310,RESULTS,Deleterious mutations were identified in 14 6 of all patients Of these 11 2 had mutations in the BRCA1 8 5 and BRCA2 2 7 genes Deleterious mutations in 15 other predisposition genes were detected in 3 7 of patients with the majority observed in genes involved in homologous recombination including PALB2 1 2 and BARD1 RAD51D RAD51C and BRIP1 0 3 to 0 5 Patients with TNBC with mutations were diagnosed at an earlier age P 001 and had higher grade tumors P 01 than those without mutations  
+

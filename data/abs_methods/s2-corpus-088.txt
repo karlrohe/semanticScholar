@@ -1,0 +1,4 @@
+ 1991861144,METHODS,The study was conducted on male Wistar rats divided into 5 groups according to the source and concentration of fructuse ingested AD LIBITUM in liquid form  
+ 1991861144,RESULTS,Drink intake was increased and chow consumption was reduced in all groups compared to control P 0 05 The animals of the groups receiving 10 and 20 fructose solutions showed increased triglyceride levels and the 20 group also showed weight gain The exaggerate consumption of fructose promotes a reduced consumption of chow an increase in serum triglyceride levels and weight gain in some animals  
+ 1991861144,METHODS_DIFF,The study was conducted on male Wistar rats divided into 5 groups according to the source and concentration of fructuse ingested AD LIBITUM in liquid form  
+

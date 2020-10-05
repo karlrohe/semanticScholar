@@ -1,0 +1,6 @@
+ 2047354288,BACKGROUND,Haloperidol is effective for postoperative nausea and vomiting prophylaxis but there are almost no data comparing it to 5 HT 3 antagonists  
+ 2047354288,METHODS,Two hundred forty four adults were randomized to receive i v haloperidol 1 mg or ondansetron 4 mg during general anesthesia Nausea vomiting need for rescue sedation extrapyramidal effects QTc intervals and time to postanesthesia care unit discharge were evaluated with a third party blind design  
+ 2047354288,RESULTS,There was no intergroup difference in any measure of efficacy or toxicity Haloperidol and ondansetron subjects 78 2 and 76 8 had complete response Postoperatively prolonged QTc occurred in 28 9 and 22 1 N S  
+ 2047354288,CONCLUSIONS,In a mixed surgical population the efficacy and toxicity of postoperative nausea and vomiting prophylaxis with haloperidol 1 mg was not significantly different from ondansetron 4 mg  
+ 2047354288,METHODS_DIFF,Two hundred forty four adults were randomized to receive i v haloperidol 1 mg or ondansetron 4 mg during general anesthesia Nausea vomiting need for rescue sedation extrapyramidal effects QTc intervals and time to postanesthesia care unit discharge were evaluated with a third party blind design  
+

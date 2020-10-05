@@ -1,0 +1,6 @@
+ 2136392804,BACKGROUND,Military training has a high dropout rate but the role of occupational stress is not known  
+ 2136392804,METHODS,A study of occupational stress in 476 army recruits as measured in Week 4 of 23 weeks of basic military training using previously identified risk factors for lack of success in training and outcome of training  
+ 2136392804,RESULTS,Using stepwise logistic regression occupational stress levels as measured at Week 4 were significant predictors of outcome in training Psychological scale scores predicted 85 of those who were asked to leave Other factors previously thought to be predictive of outcome of training were not predictive in this cohort of recruits  
+ 2136392804,CONCLUSIONS,Levels of occupational stress measured 4 weeks into training predicted outcome of training  
+ 2136392804,METHODS_DIFF,A study of occupational stress in 476 army recruits as measured in Week 4 of 23 weeks of basic military training using previously identified risk factors for lack of success in training and outcome of training  
+

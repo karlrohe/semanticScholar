@@ -1,0 +1,5 @@
+ 2750942804,BACKGROUND,Raising a child with intellectual disability ID may be stressful for parents Previous studies have suggested the mediating role of mindfulness in the association between child behavior problems and parental stress  
+ 2750942804,METHODS,In a questionnaire survey 271 Chinese parents of children with ID in 6 Hong Kong special schools reported their levels of stress and mindfulness as well as their children s behavior problems The latter was also reported by teachers  
+ 2750942804,RESULTS,When child behavior problems were reported by parents parental mindfulness was a mediator between child behavior problems and parental stress In contrast when child behavior problems were reported by teachers parental mindfulness was a moderator between child behavior problems and parental stress  
+ 2750942804,METHODS_DIFF,In a questionnaire survey 271 Chinese parents of children with ID in 6 Hong Kong special schools reported their levels of stress and mindfulness as well as their children s behavior problems The latter was also reported by teachers  
+
